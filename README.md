@@ -37,11 +37,11 @@ This project provides a basic QR Code Generator web application. Users can enter
 
 This project uses the following dependencies:
 
-- [https://api.qrserver.com](https://api.qrserver.com): External API for generating QR codes.
+- [QR Code API](https://goqr.me/api/): External API for generating QR codes.
 
 ## Attribution
 
-The QR code generation in this project is powered by the [goQR API](https://goqr.me/api/). We acknowledge and appreciate their service for providing the QR code generation functionality.
+The QR code generation in this project is powered by the [goQR API](https://goqr.me/). We acknowledge and appreciate their service for providing the QR code generation functionality.
 
 ## License
 
