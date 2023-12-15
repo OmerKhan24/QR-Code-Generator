@@ -45,7 +45,7 @@ The QR code generation in this project is powered by the [goQR API](https://goqr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/OmerKhan24/QR-Code-Generator/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/OmerKhan24/QR-Code-Generator/blob/main/LICENSE.md) file for details.
 
 Feel free to contribute, report issues, or suggest improvements!
 
